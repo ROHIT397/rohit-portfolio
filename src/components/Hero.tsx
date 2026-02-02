@@ -16,7 +16,7 @@ export function Hero() {
     summary:
       "Backend Software Engineer with experience building reliable, scalable enterprise systems using Java and Spring Boot, with a focus on API design, performance, and maintainability.",
     resumeDriveLink:
-      "https://drive.google.com/file/d/1FvEGrbktX3_Z3NRcKmXs5B2p8ZPYev0Y/view?usp=sharing",
+      "https://drive.google.com/file/d/1KrtCgX9bn2WffBlygnReKduvx9FZq1Ah/view?usp=sharing",
     githubLink: "https://github.com/ROHIT397",
     
   };
