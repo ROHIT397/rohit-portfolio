@@ -67,7 +67,7 @@ src/
 2. Import your repository in Vercel
 3. Vercel will auto-detect Vite and configure the build settings
 4. Deploy
-
+5. Now access your deployed url
 Build settings for manual configuration:
 
 - **Build Command**: `npm run build`
