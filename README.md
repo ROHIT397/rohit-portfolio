@@ -96,4 +96,3 @@ All components use Tailwind CSS. Customize the design by modifying classes or ex
 ## License
 
 MIT
-change from dev branch
